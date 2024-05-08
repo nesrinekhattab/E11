@@ -66,7 +66,7 @@ def translate_role_for_streamlit(user_role):
         return user_role
 
 # Display the chatbot's title on the page with custom color and font
-st.title("?? Chat Bot!")
+st.title("🤖 Chat Bot!")
 st.markdown(
     """
     <style>
