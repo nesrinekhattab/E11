@@ -47,8 +47,8 @@ def extract_text_from_pdf(pdf_path):
     return text
 
 # Paths to your PDF files
-pdf_path_fr = "Banque_FR.pdf"
-pdf_path_ar = "Banque_AR.pdf"
+pdf_path_fr = ""D:/Banque_FR.pdf"
+pdf_path_ar = ""D:/Banque_AR.pdf"
 
 # Load PDF content for both files
 pdf_text_fr = extract_text_from_pdf(pdf_path_fr)
